@@ -1,0 +1,14 @@
+C:\Xamarin\Grid\Grid\Grid\obj\Debug\netstandard2.0\Grid.csprojAssemblyReference.cache
+C:\Xamarin\Grid\Grid\Grid\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Xamarin\Grid\Grid\Grid\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Xamarin\Grid\Grid\Grid\obj\Debug\netstandard2.0\Grid.AssemblyInfoInputs.cache
+C:\Xamarin\Grid\Grid\Grid\obj\Debug\netstandard2.0\Grid.AssemblyInfo.cs
+C:\Xamarin\Grid\Grid\Grid\obj\Debug\netstandard2.0\Grid.csproj.CoreCompileInputs.cache
+C:\Xamarin\Grid\Grid\Grid\bin\Debug\netstandard2.0\Grid.deps.json
+C:\Xamarin\Grid\Grid\Grid\bin\Debug\netstandard2.0\Grid.dll
+C:\Xamarin\Grid\Grid\Grid\bin\Debug\netstandard2.0\ref\Grid.dll
+C:\Xamarin\Grid\Grid\Grid\bin\Debug\netstandard2.0\Grid.pdb
+C:\Xamarin\Grid\Grid\Grid\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Xamarin\Grid\Grid\Grid\obj\Debug\netstandard2.0\Grid.dll
+C:\Xamarin\Grid\Grid\Grid\obj\Debug\netstandard2.0\ref\Grid.dll
+C:\Xamarin\Grid\Grid\Grid\obj\Debug\netstandard2.0\Grid.pdb
